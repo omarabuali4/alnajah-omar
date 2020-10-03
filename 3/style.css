@@ -1,0 +1,42 @@
+
+
+#header{
+
+color: #9C27B0;
+font-size: 35px;
+width: 500px;
+border:solid 5px black;
+margin: 0 auto;
+padding: 20px;
+}
+
+.text{
+font-size: 30px;
+color: #ff7043;
+text-align: center;
+width: auto;
+border:solid 5px black;
+
+padding: 30px;
+
+}
+
+#list1{
+color: #9C27B0;
+font-size: 35px;
+width: 400px;
+border:solid 5px black;
+margin: 0 auto;
+padding: 20px;
+}
+#list2{
+
+	color: #9C27B0;
+font-size: 35px;
+width: 500px;
+border:solid 5px black;
+margin: 20px auto;
+padding: 20px;
+text-align: center;
+padding-left: 200
+}
