@@ -28,6 +28,7 @@ width: 400px;
 border:solid 5px black;
 margin: 0 auto;
 padding: 20px;
+float: left;
 }
 #list2{
 
@@ -38,5 +39,6 @@ border:solid 5px black;
 margin: 20px auto;
 padding: 20px;
 text-align: center;
+float: right;
 padding-left: 200
 }
