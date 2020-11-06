@@ -1,4 +1,9 @@
-
+#body{
+	
+	background-image: url(55.jpg);
+background-attachment: fixed;
+background-position: bottom left;
+}
 
 #header{
 
