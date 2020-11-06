@@ -1,3 +1,4 @@
+
 #body{
 	
 background-image: url(55.jpg);
@@ -21,7 +22,6 @@ color: #ff7043;
 text-align: center;
 width: auto;
 border:solid 5px black;
-
 padding: 30px;
 
 }
@@ -37,7 +37,7 @@ float: left;
 }
 #list2{
 
-	color: #9C27B0;
+color: #9C27B0;
 font-size: 35px;
 width: 500px;
 border:solid 5px black;
