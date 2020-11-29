@@ -4,8 +4,19 @@
 background-image: url(56.jpeg);
 background-attachment: fixed;
 background-position: bottom left;
-}
 
+}
+#cv{
+
+	color: red ; text-align: right;
+	
+}
+#button{
+
+
+
+	font-size: 20px;
+}
 #header{
 background-color:powderblue;
 color: #9C27B0;
@@ -15,8 +26,11 @@ border:solid 5px black;
 margin: 20 auto;
 padding: 20px;
 }
-
+p.text:hover {
+  color: red;
+}
 .text{
+
 background-color: yellow;
 font-size: 30px;
 color: #ff7043;
